@@ -72,9 +72,8 @@ Libraries Utilized: ...
 <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
+<br/>
 <div align="center">
-
-<br/><br/>
 
 ## ***Github stats***
 
