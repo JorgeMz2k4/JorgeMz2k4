@@ -9,6 +9,7 @@
     <p>
         <strong>
             Junior Data Analyst passionate about learning, growth, and data-driven solutions.<br><br>
+            <img align="right" width=400px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJtM3hmMHd3YTRxZThoYjNhZ2ZoMXQ4ZTBnOGQ5Y3A1bG9hcmJ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4CtmkgOf7d51Vomk4/giphy.gif">
             I'm just starting my journey in the world of data analysis and visualization. I'm building my skills with tools like Excel, SQL, Python, and Power BI, and I'm always looking for new challenges to keep improving.<br><br>
             Motivated, detail-oriented, and eager to turn data into meaningful insights. Always ready to learn something new and take the next step in my career.
         </strong>
